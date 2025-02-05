@@ -1,5 +1,5 @@
 # Como fazer download e instruções para usar o aplicativo Deepseek Download para Android IOS
-## [Baixar: Deepseek AI](https://apksil.com/)
+## ⬆️ [Baixar: Deepseek AI](https://apksil.com/) 📲 
 ![Screenshot 2025-02-05 094042](https://github.com/user-attachments/assets/51d6d5ca-616d-4383-ac5b-0d4b76a910f5)
 
 O Deepseek é um mecanismo de busca alimentado por IA que promete superar os métodos tradicionais de pesquisa. Ele utiliza algoritmos avançados para entender melhor a intenção do usuário, fornecendo resultados mais precisos e personalizados.
